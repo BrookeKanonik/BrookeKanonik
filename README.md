@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brooke Kanonik</h1>
 <h3 align="center">A Full-Stack Software Engineer who loves to build new projects and be on top of the latest coding trends.</h3>
 
-- 🔭 I’m currently working on [Let's Make It, Chef!](https://github.com/BrookeKanonik/project-collection/tree/main/lets-make-it-chef)
+- 📍 I have currently finished/am doing final touch ups on [Let's Make It, Chef!](https://lets-make-it-chef.onrender.com/)
 
-- 👨‍💻 All of my client projects are available at [https://brooke-kanonik.netlify.app/](https://brooke-kanonik.netlify.app/)
+- 📝 All of my client projects are available at [https://brooke-kanonik.netlify.app/](https://brooke-kanonik.netlify.app/)
 
 - 📝 All other projects can be found here [https://github.com/BrookeKanonik/project-collection/tree/main](https://github.com/BrookeKanonik/project-collection/tree/main)
-
-- 💬 Ask me about **my latest recipes I am creating and adding to my personal project!**
 
 - 📫 How to reach me **brookekanonik@gmail.com**
 
